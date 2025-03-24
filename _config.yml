@@ -1,5 +1,10 @@
-title: Minimal theme
+title: Xuanya Zhu
+# position:
+# affiliation:
+# email:
+google_scholar: https://scholar.google.com/
+github_link: https://github.com/12zxyu
+linkedin: https://www.linkedin.com/in/adamxyzhu/
+# google_analytics:
 description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
 theme: jekyll-theme-minimal
